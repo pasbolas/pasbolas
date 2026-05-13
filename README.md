@@ -1,6 +1,6 @@
 # Akshat Pasbola
-[Portfolio](https://pasbola.com)
-[LinkedIn Profile](https://linkedin.com/in/akshatpasbola)
+[Portfolio](https://pasbola.com) | 
+[LinkedIn](https://linkedin.com/in/akshatpasbola) | 
 ---
 Computer Science student at Technological University Dublin focused on systems, AI-assisted applications, accessibility, and human-centered software design.
 
