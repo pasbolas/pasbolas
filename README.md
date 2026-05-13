@@ -1,6 +1,6 @@
 # Akshat Pasbola
 [Portfolio](https://pasbola.com) | 
-[LinkedIn](https://linkedin.com/in/akshatpasbola) | 
+[LinkedIn](https://linkedin.com/in/akshatpasbola) 
 ---
 Computer Science student at Technological University Dublin focused on systems, AI-assisted applications, accessibility, and human-centered software design.
 
@@ -8,7 +8,8 @@ Computer Science student at Technological University Dublin focused on systems, 
 
 # Featured Projects
 
-## Lavender
+## Lavender | Award Winner
+[Presentation](https://puddin.pasbola.com)
 
 Accessibility-focused browser extension designed to detect and reduce potentially seizure-triggering visual content from autoplaying media using frame analysis and metadata heuristics.
 
@@ -16,23 +17,9 @@ Accessibility-focused browser extension designed to detect and reduce potentiall
 
 * Local-only processing
 * Accessibility-first approach
-* Awarded Best Presentation and Best User Experience at hackathon competition
-* Real-time visual analysis pipeline
-
----
-
-## AI Minecraft Friend
-
-Autonomous Minecraft companion built using Mineflayer with layered planning, movement safety systems, crafting intelligence, and AI-assisted task orchestration.
-
-**Highlights**
-
-* Multi-step task planning
-* Safety-aware movement system
-* Crafting and inventory reasoning
-* Real-time environmental interaction
-
-
+* Awarded Best Presentation and Best User Experience at Workday X CS++ Hackathon.
+* Real-time visual analysis pipeline.
+  
 ---
 
 ## Tutor Notes
@@ -51,6 +38,8 @@ Minimal study platform designed for structured revision, immersive reading, and 
 
 ## Bard, Smart Question Generator
 
+[Deployment](https://study.pasbola.com)
+
 AI-assisted study platform designed for revision support, question generation, and interactive learning workflows using the DeepSeek API.
 
 **Highlights**
@@ -62,6 +51,19 @@ AI-assisted study platform designed for revision support, question generation, a
 * DeepSeek-powered response and reasoning pipeline
 
 ---
+
+## AI Minecraft Friend
+
+Autonomous Minecraft companion built using Mineflayer with layered planning, movement safety systems, crafting intelligence, and AI-assisted task orchestration.
+
+**Highlights**
+
+* Multi-step task planning
+* Safety-aware movement system
+* Crafting and inventory reasoning
+* Real-time environmental interaction
+---
+
 
 # Technical Stack
 
@@ -89,7 +91,4 @@ AI-assisted study platform designed for revision support, question generation, a
 * Git/GitHub
 
 ---
-
-# Contact
-* LinkedIn: [LinkedIn Profile](https://linkedin.com/in/akshatpasbola?utm_source=chatgpt.com)
 
